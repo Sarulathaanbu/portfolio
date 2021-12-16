@@ -22,8 +22,8 @@ export default function Home({ githubProfileData }) {
 					title: "Sarulatha Anbu",
 					description:
 						"A passionate Full Stack Web Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-					url: "https://developer-portfolio-1hanzla100.vercel.app",
+					image: "https://i.postimg.cc/QdH3tJkS/saru-2.jpg",
+					url: "https://sarulatha-portfolio.herokuapp.com/",
 					keywords: [
 						"Sarulatha",
 						"Anbu",

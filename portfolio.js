@@ -159,7 +159,7 @@ export const projects = [
 	},
 	{
 		name: "Weather App",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		github: "https://github.com/Sarulathaanbu",
 	},
 	{
