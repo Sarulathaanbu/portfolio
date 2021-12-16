@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi all, I'm Sarulatha ",
 	description:
 		"Experienced IT professional in Full-Stack Web Development and also in Salesforce CRM with a demonstrated history of working in the Information Technology.  Skilled in Salesforce Development & Administration, IT Consulting. Strong information technology professional with a Bachelor of Engineering.",
-	resumeLink: "https://github.com/Sarulathaanbu/cv/blob/master/Sarulatha%20FE%20Resume.pdf",
+	resumeLink: "https://github.com/Sarulathaanbu/cv/blob/master/Sarulatha%20IT%20Consultant.pdf",
 };
 
 export const openSource = {
