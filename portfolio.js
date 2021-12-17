@@ -157,15 +157,16 @@ export const projects = [
 		desc: "Meal-sharing app is basically like Airbnb for meals.",
 		link: "https://meal-sharing-saru.herokuapp.com/",
 	},
+	
 	{
 		name: "Weather App",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		github: "https://github.com/Sarulathaanbu",
+		desc: "Fetch weather data from a city",
+		github: "file:///Users/sarulathaanbu/Desktop/Hyf-Homework/hyf-homework/javascript/javascript3/week1/weather/index.html",
 	},
 	{
 		name: "Gif Search",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/Sarulathaanbu",
+		desc: "The user can write some text indicating the gif he is looking for, click a button and then a gif will be found (using the searched word) and the gif will be displayed to the user",
+		github: "file:///Users/sarulathaanbu/Desktop/Hyf-Homework/hyf-homework/javascript/javascript3/week1/giphy/index.html",
 		link: "https://example.com",
 	},
 ];
