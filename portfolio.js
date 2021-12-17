@@ -133,9 +133,9 @@ export const experience = [
 		companylogo: "/img/icons/common/github.svg",
 		date: "March 2021 – Present",
 		descBullets: [ 
-			"Intensive learning with fully practical skills on full stack web development",
-		"Participate on different events, workshops, webinars & study-groups with professional & senior Software Engineers",
-		"Learning modern Front end and back end technologies with weekly assignments & projects",
+			"Intensive learning with fully practical skills on Full Stack Web Development",
+		"Participate on different events, workshops, webinars & study-groups with Professional & Senior Software Engineers",
+		"Learning modern Frontend and Backend Technologies with weekly assignments & projects",
 	],
 	},
 	{
@@ -157,17 +157,23 @@ export const projects = [
 		desc: "Meal-sharing app is basically like Airbnb for meals.",
 		link: "https://meal-sharing-saru.herokuapp.com/",
 	},
-	
+
 	{
 		name: "Weather App",
 		desc: "Fetch weather data from a city",
-		github: "file:///Users/sarulathaanbu/Desktop/Hyf-Homework/hyf-homework/javascript/javascript3/week1/weather/index.html",
+		link: "https://raw.githack.com/Sarulathaanbu/hyf-homework/dacd5c955c36788ac0cb5c0a34b4328865274ce4/javascript/javascript3/week1/weather/index.html",
 	},
 	{
 		name: "Gif Search",
-		desc: "The user can write some text indicating the gif he is looking for, click a button and then a gif will be found (using the searched word) and the gif will be displayed to the user",
-		github: "file:///Users/sarulathaanbu/Desktop/Hyf-Homework/hyf-homework/javascript/javascript3/week1/giphy/index.html",
-		link: "https://example.com",
+		desc: "The user can write some text indicating the gif he is looking for, click a button and then a gif will be found and the gif will be displayed to the user",
+		link: "https://raw.githack.com/Sarulathaanbu/hyf-homework/dacd5c955c36788ac0cb5c0a34b4328865274ce4/javascript/javascript3/week1/giphy/index.html",
+		
+	},
+	{
+		name: "ToDo List",
+		desc: "Organize your to-do lists from anywhere with ClickUp",
+		link: "https://raw.githack.com/Sarulathaanbu/To-Do-List/264fe61cdc0c903f75c562806be08418852fc84e/index.html",
+		
 	},
 ];
 
